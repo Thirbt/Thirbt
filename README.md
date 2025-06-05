@@ -1,4 +1,4 @@
-<img src="img\wave-up.svg" alt="top border" widget=90%></img>
+<img src="img\wave-up.svg" alt="top border" width=90%></img>
 
 <div align="center">
 <img src="https://media.tenor.com/F_aIpdp3hEwAAAAj/git-github.gif" alt="github gif"></img>
@@ -9,9 +9,14 @@
 # Fala, galera! Sou o Thiago 👋
 
 <br>
+
 Bem-vindos ao meu cantinho no GitHub! Por aqui, você vai encontrar um pouco da minha jornada no universo do **desenvolvimento de software** e da **cibersegurança**.
 
----
+<br>
+<div align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHBqNXk3Z2cwZDl1aW9kYWN3OXppbXU5ZTRsOWdwZGNqZmp5ejQ4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="35%" alt="code guy" ></img>
+</div>
+<br>
 
 ### Minha Aventura no Mundo Tech 💻
 
@@ -69,6 +74,13 @@ Adoraria trocar uma ideia! Você pode me encontrar no LinkedIn:
 
 * **LinkedIn:** [https://www.linkedin.com/in/thirbt/](https://www.linkedin.com/in/thirbt/) 🔗
 * **E-mail:** thiago.godo@hotmail.com ✉️
+
+<br>
+<br>
+
+<div align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXV5MjBqOG1ob29mYTkxdDhpdGM4MGVwNTljN3JvbjlndzN2NW9rbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dqxEEMhIXaR1DrcEZA/giphy.gif" width="200">
+</div>
 
 <br>
 <br>
