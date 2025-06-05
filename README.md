@@ -1,4 +1,4 @@
-<img src="img\wave-up.svg" alt="top border" width=90%></img>
+<img src="img\wave-up.svg" alt="top border" width=100%></img>
 
 <div align="center">
 <img src="https://media.tenor.com/F_aIpdp3hEwAAAAj/git-github.gif" alt="github gif"></img>
@@ -84,4 +84,4 @@ Adoraria trocar uma ideia! Você pode me encontrar no LinkedIn:
 
 <br>
 <br>
-<img src="img\wave-down.svg" alt="top border" widget=90%></img>
+<img src="img\wave-down.svg" alt="top border" widget=100%></img>
