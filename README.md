@@ -50,7 +50,7 @@ Dá uma olhada nas tecnologias e ferramentas que eu mais uso e me divirto trabal
     * Grafana
     * Dynatrace
     * OpenCTI
-    * SIEM (Splunk, Elastic)
+    * SIEM (Sumo Logic, Elastic, Data Dog SIEM)
     * Git / GitHub
     * ![Grafana](https://skillicons.dev/icons?i=grafana) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Jenkins](https://skillicons.dev/icons?i=jenkins)
 
